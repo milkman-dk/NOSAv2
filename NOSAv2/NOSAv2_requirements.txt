@@ -1,0 +1,14 @@
+# Core PyTorch and Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Processing and Scientific Computing
+numpy>=1.21.0
+mat73>=0.59
+
+# GUI Framework
+PyQt5>=5.15.0
+
+# System and Utilities
+sys  # Built-in Python module
+os   # Built-in Python module
