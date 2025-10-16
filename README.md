@@ -1,3 +1,3 @@
 # NOSAv2
-Matura Thesis of Mikkel Lüscher, G22K, 2025 \par
+Matura Thesis of Mikkel Lüscher, G22K, 2025. <br/>
 The thesis paper and all mentioned code can be found in this repository.
